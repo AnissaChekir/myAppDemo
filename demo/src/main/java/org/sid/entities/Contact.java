@@ -22,7 +22,6 @@ public class Contact implements Serializable {
 	private long tel;
 	private String image;
 	
-	private String git_int;
 	
 	public Long getId() {
 		return id;
