@@ -23,6 +23,7 @@ public class Contact implements Serializable {
 	private String image;
 	
 	private String git_int;
+	private String angular;
 	
 	public Long getId() {
 		return id;
